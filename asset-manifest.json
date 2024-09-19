@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.4fe118a8.css",
+    "main.js": "/react-gh-pages/static/js/main.d6167cf0.js",
+    "static/media/Qs_Iranyekan.eot": "/react-gh-pages/static/media/Qs_Iranyekan.a2ad632dfc5cad4b0330.eot",
+    "static/media/Qs_Iranyekan.ttf": "/react-gh-pages/static/media/Qs_Iranyekan.3fb368ca1bd556d23f46.ttf",
+    "static/media/Qs_Iranyekan.woff": "/react-gh-pages/static/media/Qs_Iranyekan.c3437c9e1fb6e5d9d9ab.woff",
+    "static/media/Qs_Iranyekan.woff2": "/react-gh-pages/static/media/Qs_Iranyekan.a82c95117f078bb0233b.woff2",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4fe118a8.css.map": "/react-gh-pages/static/css/main.4fe118a8.css.map",
+    "main.d6167cf0.js.map": "/react-gh-pages/static/js/main.d6167cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe118a8.css",
+    "static/js/main.d6167cf0.js"
+  ]
+}
