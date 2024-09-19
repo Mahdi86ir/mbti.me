@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MBTI.github.io/react-gh-pages/static/css/main.19b62022.css",
-    "main.js": "/MBTI.github.io/react-gh-pages/static/js/main.d6167cf0.js",
-    "static/media/Qs_Iranyekan.eot": "/MBTI.github.io/react-gh-pages/static/media/Qs_Iranyekan.a2ad632dfc5cad4b0330.eot",
-    "static/media/Qs_Iranyekan.ttf": "/MBTI.github.io/react-gh-pages/static/media/Qs_Iranyekan.3fb368ca1bd556d23f46.ttf",
-    "static/media/Qs_Iranyekan.woff": "/MBTI.github.io/react-gh-pages/static/media/Qs_Iranyekan.c3437c9e1fb6e5d9d9ab.woff",
-    "static/media/Qs_Iranyekan.woff2": "/MBTI.github.io/react-gh-pages/static/media/Qs_Iranyekan.a82c95117f078bb0233b.woff2",
-    "index.html": "/MBTI.github.io/react-gh-pages/index.html",
-    "main.19b62022.css.map": "/MBTI.github.io/react-gh-pages/static/css/main.19b62022.css.map",
-    "main.d6167cf0.js.map": "/MBTI.github.io/react-gh-pages/static/js/main.d6167cf0.js.map"
+    "main.css": "./static/css/main.eca733ce.css",
+    "main.js": "./static/js/main.d6167cf0.js",
+    "static/media/Qs_Iranyekan.eot": "./static/media/Qs_Iranyekan.a2ad632dfc5cad4b0330.eot",
+    "static/media/Qs_Iranyekan.ttf": "./static/media/Qs_Iranyekan.3fb368ca1bd556d23f46.ttf",
+    "static/media/Qs_Iranyekan.woff": "./static/media/Qs_Iranyekan.c3437c9e1fb6e5d9d9ab.woff",
+    "static/media/Qs_Iranyekan.woff2": "./static/media/Qs_Iranyekan.a82c95117f078bb0233b.woff2",
+    "index.html": "./index.html",
+    "main.eca733ce.css.map": "./static/css/main.eca733ce.css.map",
+    "main.d6167cf0.js.map": "./static/js/main.d6167cf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.19b62022.css",
+    "static/css/main.eca733ce.css",
     "static/js/main.d6167cf0.js"
   ]
 }
